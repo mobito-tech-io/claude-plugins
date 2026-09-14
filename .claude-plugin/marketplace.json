@@ -1,0 +1,18 @@
+{
+  "name": "mobito-plugins",
+  "owner": {
+    "name": "Mobito Technology",
+    "url": "https://mobito.io"
+  },
+  "description": "Internal Claude plugins for Mobito",
+  "plugins": [
+    {
+      "name": "mobito-volume-query",
+      "displayName": "Mobito Volume Query",
+      "source": "./plugins/mobito-volume-query",
+      "description": "AWS Athena and Glue MCP server for the Mobito production catalog in eu-west-1.",
+      "version": "1.2.0",
+      "category": "data"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Working notes and conversation records — local only, not distributed with the marketplace
+claude_chats/
+
+# Build output — packaged plugin archives for manual org upload
+dist/

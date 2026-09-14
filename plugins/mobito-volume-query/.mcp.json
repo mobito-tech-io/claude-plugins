@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "aws.dp-mcp-plugin": {
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-dataprocessing-mcp-server@0.2.1",
+        "--allow-sensitive-data-access"
+      ],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR",
+        "AWS_REGION": "eu-west-1",
+        "AWS_PROFILE": "mobito-prod-athena-mcp"
+      }
+    }
+  }
+}
