@@ -11,7 +11,6 @@
       "displayName": "Mobito Volume Query",
       "source": "./plugins/mobito-volume-query",
       "description": "AWS Athena and Glue MCP server for the Mobito production catalog in eu-west-1.",
-      "version": "1.2.0",
       "category": "data"
     }
   ]
