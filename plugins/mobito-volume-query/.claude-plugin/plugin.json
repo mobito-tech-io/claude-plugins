@@ -1,8 +1,8 @@
 {
   "name": "mobito-volume-query",
   "displayName": "Mobito Volume Query",
-  "version": "1.2.3",
-  "description": "AWS Data Processing MCP server pre-configured for the Mobito production Athena catalog and Glue databases in eu-west-1. [rollout-test 1.2.3]",
+  "version": "1.2.4",
+  "description": "AWS Data Processing MCP server pre-configured for the Mobito production Athena catalog and Glue databases in eu-west-1. [rollout-test 1.2.4]",
   "license": "UNLICENSED",
   "keywords": ["athena", "glue", "volumes", "probe", "coverage"],
   "mcpServers": "./.mcp.json"
